@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+
+build/
+
+src/main/test/kotlin/irc.kt
+src/main/test/kotlin/main.kt
+
+*.jar
