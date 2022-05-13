@@ -3,7 +3,13 @@
 
 build/
 
-src/main/test/kotlin/irc.kt
-src/main/test/kotlin/main.kt
+src/test/kotlin/irc.kt
+src/test/kotlin/main.kt
 
 *.jar
+
+uketoru/node_modules
+uketoru/dist
+
+makoia.toml
+uketoru.toml
